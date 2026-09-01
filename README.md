@@ -2,7 +2,7 @@
 
 THE LICENSES CAN FOUND HERE:
 
-[LINK](https://github.com/Stormwindsky/Catch-Apples/Assets_and_Code_Sources/LICENSE.txt)
+[LINK](https://github.com/Stormwindsky/Catch-Apples/blob/main/Assets_and_Code_Sources/LICENSE.txt)
 
 ## Sources:
 
