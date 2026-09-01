@@ -1,6 +1,6 @@
 # Catch Apples
 
-THE LICENSES CAN FOUND HERE:
+THE LICENSES CAN BE FOUND HERE:
 
 [LINK](https://github.com/Stormwindsky/Catch-Apples/blob/main/Assets_and_Code_Sources/LICENSE.txt)
 
