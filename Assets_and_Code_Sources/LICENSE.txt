@@ -8,7 +8,7 @@ component:
 1. CODE (Scripts & Logic):
    Covered by the MIT No Attribution (MIT-0) License.
 
-2. ASSETS (Graphics, Sprites, Audio, Music, & Sound Effects):
+2. ASSETS (Graphics, Sprites, Audio, Music, & Sound Effects & Fonts):
    Covered by the Creative Commons Zero v1.0 Universal (CC0 1.0) License.
 
 --------------------------------------------------------------------------------
